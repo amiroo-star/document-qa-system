@@ -1,1 +1,17 @@
+# Secrets
+.env
+
+# Python
+__pycache__/
+*.pyc
+
+# Virtual env
+venv/
+
+# Chroma / vector DB
+chroma_db/
+chroma_db_uploaded/
+
+# Data files
+data/*.pdf
 
