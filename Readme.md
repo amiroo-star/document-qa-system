@@ -87,7 +87,7 @@ document-qa-system/
 ├── document_loader.py     # PDF processing & chunking
 ├── vector_store.py        # Embeddings & vector database
 ├── requirements.txt       # Dependencies
-├── .env                   # API keys (not committed)
+├── env.example           # Example environment variables
 ├── .gitignore            # Git ignore rules
 └── README.md             # Documentation
 ```
