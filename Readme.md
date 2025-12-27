@@ -112,7 +112,7 @@ document-qa-system/
 
 ## 📝 License
 
-MIT License - feel free to use for learning and projects
+No license specified. This project is shared for educational purposes.
 
 ## 🙏 Acknowledgments
 
